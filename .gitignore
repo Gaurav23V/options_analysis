@@ -1,0 +1,5 @@
+# .gitignore
+.env
+fyers_tokens.json
+symbol_cache.json
+backend/app/utils/NSE_FO_sym_master.json

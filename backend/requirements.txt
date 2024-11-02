@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+requests
+fyers-apiv3
+python-dotenv
+pydantic
+pydantic-settings
